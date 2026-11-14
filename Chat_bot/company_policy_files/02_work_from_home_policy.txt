@@ -1,0 +1,11 @@
+COMPANY HR POLICY: WORK FROM HOME
+
+1. Employees may work from home up to 2 days per week.
+2. Manager approval is required before working remotely.
+3. Employees must be available during core hours from 10:00 AM to 5:00 PM.
+4. Employees must attend scheduled team meetings while working remotely.
+5. Company laptops and approved systems must be used for official work.
+6. Confidential company information must be protected when working remotely.
+7. Employees should inform their manager if internet or power issues affect their work.
+
+Note: This is sample policy data for chatbot testing, not an actual company policy.

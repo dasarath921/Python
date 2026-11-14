@@ -1,0 +1,11 @@
+COMPANY HR POLICY: WORKING HOURS
+
+1. Standard working hours are 9:00 AM to 6:00 PM.
+2. Employees are expected to complete 8 working hours per day.
+3. The standard lunch break is 1 hour.
+4. Employees should inform their manager if they expect to arrive late.
+5. Overtime requires prior manager approval.
+6. Team-specific schedules may apply where communicated by management.
+7. Employees should follow their assigned shift timings.
+
+Note: This is sample policy data for chatbot testing, not an actual company policy.

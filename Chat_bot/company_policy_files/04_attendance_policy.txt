@@ -1,0 +1,10 @@
+COMPANY HR POLICY: ATTENDANCE
+
+1. Employees must record attendance on every working day using the approved system.
+2. Attendance errors should be reported to HR as soon as possible.
+3. Employees must inform their manager about unexpected absences.
+4. Three consecutive unauthorized absences may result in disciplinary action.
+5. Employees should follow the attendance and shift rules communicated by their team.
+6. Employees must not record attendance on behalf of another employee.
+
+Note: This is sample policy data for chatbot testing, not an actual company policy.

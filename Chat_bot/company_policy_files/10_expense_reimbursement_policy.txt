@@ -1,0 +1,11 @@
+COMPANY HR POLICY: EXPENSE REIMBURSEMENT
+
+1. Employees may claim eligible business expenses that were approved under company procedures.
+2. Original bills or valid digital receipts must be submitted.
+3. Expense claims should be submitted within 15 days of the expense.
+4. Manager approval is required before reimbursement.
+5. Personal expenses are not reimbursable.
+6. Claims must include the business purpose, date, amount, and supporting receipt.
+7. Reimbursement is subject to verification and the applicable expense limits.
+
+Note: This is sample policy data for chatbot testing, not an actual company policy.

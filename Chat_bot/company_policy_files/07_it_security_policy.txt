@@ -1,0 +1,13 @@
+COMPANY IT POLICY: INFORMATION SECURITY
+
+1. Employees must never share their passwords.
+2. Company systems may only be accessed using authorized accounts.
+3. Strong, unique passwords must be used.
+4. Multi-factor authentication must be enabled where required.
+5. Suspicious emails, links, or attachments must be reported to the IT team.
+6. Unauthorized software installation is prohibited.
+7. Company devices must be locked when unattended.
+8. Lost or stolen company devices must be reported immediately.
+9. Confidential data must only be stored in approved company locations.
+
+Note: This is sample policy data for chatbot testing, not an actual company policy.

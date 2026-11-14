@@ -1,0 +1,10 @@
+COMPANY HR POLICY: SALARY AND PAYROLL
+
+1. Salaries are paid on the last working day of each month.
+2. Salary slips are available through the employee portal.
+3. Salary details must be treated as confidential.
+4. Salary discrepancies should be reported to HR within 7 days of receiving the salary slip.
+5. Statutory deductions and applicable taxes are handled according to relevant laws.
+6. Employees should keep their bank and tax details up to date in the employee portal.
+
+Note: This is sample policy data for chatbot testing, not an actual company policy.

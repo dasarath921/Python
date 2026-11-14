@@ -1,0 +1,11 @@
+COMPANY HR POLICY: RESIGNATION
+
+1. Employees are expected to provide 30 days' notice before resignation.
+2. Resignation requests should be submitted to the reporting manager and HR.
+3. Employees must complete the required knowledge transfer before their last working day.
+4. Company assets must be returned before the employee's exit is completed.
+5. Employees should complete exit formalities and submit required documents.
+6. Final settlement is processed according to company procedures and applicable law.
+7. Any exception to the notice period requires written approval from authorized management.
+
+Note: This is sample policy data for chatbot testing, not an actual company policy.

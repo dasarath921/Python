@@ -1,0 +1,10 @@
+COMPANY HR POLICY: HOLIDAYS
+
+1. The company follows its published annual holiday calendar.
+2. National and regional holidays are observed according to the applicable company calendar.
+3. Employees should check the official calendar for holiday dates.
+4. Working on a holiday requires prior manager approval, except in emergencies.
+5. Compensatory leave may be provided for approved holiday work, subject to company rules.
+6. Team-specific support schedules may apply during holidays.
+
+Note: This is sample policy data for chatbot testing, not an actual company policy.

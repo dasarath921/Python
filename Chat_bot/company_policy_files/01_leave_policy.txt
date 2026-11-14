@@ -1,0 +1,12 @@
+COMPANY HR POLICY: LEAVE POLICY
+
+1. Employees are entitled to 12 casual leaves per calendar year.
+2. Employees are entitled to 12 sick leaves per calendar year.
+3. Employees are entitled to 18 earned leaves per calendar year.
+4. Leave requests should be submitted at least 2 days in advance.
+5. Emergency leave may be requested on the same day, subject to manager approval.
+6. Unused earned leave may be carried forward up to a maximum of 30 days.
+7. Employees should check their available leave balance before applying.
+8. Leave approval depends on business requirements and the manager's decision.
+
+Note: This is sample policy data for chatbot testing, not an actual company policy.
